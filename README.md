@@ -1,4 +1,4 @@
-## Hi, I'm Gosia ✨
+## Hi there, I'm Gosia!
 
 💼 Business Analyst with a background in finance <br>
 🐍 Learning and applying Python for data cleaning, automation, and FUN! <br>
