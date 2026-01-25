@@ -1,14 +1,14 @@
 ## Hi there, I'm Gosia!
 
-💼 Business Analyst with a background in finance <br>
-🐍 Learning and applying Python for data cleaning, automation, and FUN! <br>
-🧠 Passionate about data processing, process automation, and machine learning <br>
-💡 Currently building tools to automate repetitive tasks <br>
-📊 Power BI enthusiast: designing interactive dashboards, transforming data with M Language, and modeling it with DAX <br>
-🎓 I love coding more than I hate it <br>
+💼 Business and Systems Analyst bridging business and IT <br>
+🔥 Translating business needs into solutions developers can build, and into usable data for reporting. <br>
+🐍 Python for data cleaning and automation (pandas is my friend) <br>
+📊 Power BI enthusiast: dashboards, DAX, data storytelling. Figma, HTML, CSS, because valuable data deserves good design.
+🎓 Excel fanatic: Power Query, PivotTables, VBA automation - I extend Excel with VBA to match real process needs, not just what’s available out of the box.
+🧠 Passionate about data processing, process automation, and continuous learning <br>
+💡 Currently studying Visual Data Analytics at Warsaw University of Technology <br>
 🚀 When I fail, I try again <br>
-😻 Cat lover! <br>
-🔥 I test in prod! (just kidding...) <br>
+😻 Cat, coffee and interior design lover! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malgorzata-bondini/)
