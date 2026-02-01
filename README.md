@@ -3,8 +3,8 @@
 💼 Business and Systems Analyst bridging business and IT <br>
 🔥 Translating business needs into solutions developers can build, and into usable data for reporting. <br>
 🐍 Python for data cleaning and automation (pandas is my friend) <br>
-📊 Power BI enthusiast: dashboards, DAX, data storytelling. Figma, HTML, CSS, because valuable data deserves good design.
-🎓 Excel fanatic: Power Query, PivotTables, VBA automation - I extend Excel with VBA to match real process needs, not just what’s available out of the box.
+📊 Power BI enthusiast: dashboards, DAX, data storytelling. Figma, HTML, CSS, because valuable data deserves good design. <br>
+🎓 Excel fanatic: Power Query, PivotTables, VBA automation - I extend Excel with VBA to match real process needs, not just what’s available out of the box. <br>
 🧠 Passionate about data processing, process automation, and continuous learning <br>
 💡 Currently studying Visual Data Analytics at Warsaw University of Technology <br>
 🚀 When I fail, I try again <br>
