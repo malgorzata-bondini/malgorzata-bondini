@@ -1,7 +1,7 @@
 ## Hi there, I'm Gosia!
 
 💼 Business and Systems Analyst bridging business needs and IT solutions.<br>
-🔥 Turning business goals into clear requirements developers can build from, and data that supports reporting. <br>
+🔥 Turning business needs into clear solutions developers can deliver, and into data that supports decisions. <br>
 🐍 Python for data cleaning and automation (pandas is my friend). <br>
 📊 Power BI enthusiast: dashboards, DAX, data storytelling. Being a guardian of user experience with Figma, HTML, CSS, because valuable data deserves good design. <br>
 🎓 Excel fanatic: Power Query, PivotTables, VBA automation - to match real process needs, not just what’s available out of the box. <br>
